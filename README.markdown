@@ -8,6 +8,6 @@ That pulled tweet has some extra magic, too. Any \*asterisks\* are turned into \
 
 I also cache this data in a JSON file so it's only called hourly at most, and then those links on the page are in there too for some reason.
 
-Finally, I went through the trouble of commenting everything and pulling out the sensitive information (API keys and the like) into a separate file because I figured if I've gone this far, why not share it?
+Finally, I went through the trouble of commenting everything and pulling out the sensitive information (API keys and the like) into a separate file because I figured if I've gone this far, why not git-push?
 
 THIS WAS SUPPOSED TO BE SO SIMPLE. LOOK AT WHAT YOU MADE ME DO.
