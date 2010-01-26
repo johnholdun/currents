@@ -17,7 +17,9 @@
   <body>  
     <p>I&rsquo;m John Holdun. I design interactions for the web.</p>
     
-    <p><?= current_status() ?> I&rsquo;m currently in <?= current_city() ?>.</p>
+    <p><?= current_status() ?></p>
+    
+    <p>I&rsquo;m currently in <?= current_city() ?>.</p>
     
     <ul>
 <? foreach(links() as $link) : ?>
